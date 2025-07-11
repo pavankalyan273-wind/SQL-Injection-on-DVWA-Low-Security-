@@ -19,7 +19,7 @@ Demonstrate how SQL Injection works on a vulnerable web application using DVWA (
 
 ---
 
-## 🛠Tools Used
+## Tools Used
 - DVWA (Damn Vulnerable Web Application)
 - Kali Linux / XAMPP
 - Web Browser (for manual testing)
@@ -27,7 +27,7 @@ Demonstrate how SQL Injection works on a vulnerable web application using DVWA (
 
 ---
 
-## ⚙Setup Instructions
+## Setup Instructions
 
 1. **Install DVWA** on your local machine or VM:
    ```bash
